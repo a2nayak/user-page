@@ -1,0 +1,13 @@
+Pictures - done
+All the core Markdown constructs in GitHub Flavored Markdown Links to an external site.
+
+    Headings - done
+    Styling text - done
+    Quoting text - done
+    Quoting code - done
+    External Links (Link to another webpage) - done
+    Section links (Link to a header in the same .md file)
+    Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+    Ordered and Unordered Lists
+    Task lists
+
