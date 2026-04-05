@@ -10,10 +10,10 @@ The following page will help you get to know me a little bit better.
 
 
 #### Favorite fruit
-**Lychees** are my favorite fruit, as shown below:\
-![image of a lychee](image.png) \
-<sub> This image was sourced from  [Britannica](https://www.britannica.com/plant/litchi-fruit). <sub>
+**Lychees** are my favorite fruit, as shown below: 
 
+![image of a lychee](image.png) \
+<sup> This image was sourced from  [Britannica](https://www.britannica.com/plant/litchi-fruit). <sup>
 #### Favorite quote
 
 > Fall down seven times, stand up eight.
@@ -23,7 +23,7 @@ You can read my thoughts on this quote [here](quote_thoughts.md).
 
 #### Favorite programming language
 
-For me, this would be [Kotlin](https://kotlinlang.org/). Here's some example Kotlin code that computes the \(n\)th Fibonacci number for some natural \(n \in \mathbb{N}\).
+For me, this would be [Kotlin](https://kotlinlang.org/). Here's some example Kotlin code that computes the nth Fibonacci number for some natural $$n \in \mathbb{N}$$.
 
 ```kotlin
 fun fib(n: Int): Int {
