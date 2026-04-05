@@ -23,7 +23,7 @@ You can read my thoughts on this quote [here](quote_thoughts.md).
 
 #### Favorite programming language
 
-For me, this would be [Kotlin](https://kotlinlang.org/). Here's some example Kotlin code that computes the nth Fibonacci number for some natural $$n \in \mathbb{N}$$.
+For me, this would be [Kotlin](https://kotlinlang.org/). Here's some example Kotlin code that computes the nth Fibonacci number for some natural number n.
 
 ```kotlin
 fun fib(n: Int): Int {
@@ -38,7 +38,7 @@ fun fib(n: Int): Int {
 - Demon Bluff
 
 ## Bucket list
-- [x] See the aurora borealis
-- [x] Go snorkeling in a coral reef
-- [ ] Road trip across the US   
-- [ ] Learn a new language
+- [x]  See the aurora borealis
+- [x]  Go snorkeling in a coral reef
+- [ ]  Road trip across the US   
+- [ ]  Learn a new language
