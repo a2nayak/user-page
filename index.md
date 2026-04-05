@@ -3,14 +3,14 @@ Hi! I'm Anirudh Nayak, a second year CS major.
 The following page will help you get to know me a little bit better.
 
 ## Favorite things
-##### Categories
+#### Categories
 1.  [Favorite fruit](#favorite-fruit)
 2. [Favorite quote](#favorite-quote)
 3. [Favorite programming language](#favorite-programming-language)
 
 
 #### Favorite fruit
-**Lychees** are my favorite fruit, as shown below: 
+<ins> Lychees <ins> are my favorite fruit, as shown below: 
 
 ![image of a lychee](image.png) \
 <sup> This image was sourced from  [Britannica](https://www.britannica.com/plant/litchi-fruit). <sup>
