@@ -1,10 +1,17 @@
-## About me
-Hi! I'm Anirudh. I'm a second year CS major. To get to know me better, here are some of my favorite things.
+## Introduction
+Hi! I'm Anirudh Nayak, a second year CS major. 
+The following page will help you get to know me a little bit better.
+
+## Favorite things
+##### Categories
+1.  [Favorite fruit](####Favorite-fruit)
+2. [Favorite quote](####Favorite-quote)
+3. [Favorite programming language](####Favorite-programming-language)
 
 
 #### Favorite fruit
-My favorite fruit is a **lychee**, as shown below:
-![image of a lychee](image.png)
+**Lychees** are my favorite fruit, as shown below:\
+![image of a lychee](image.png) \
 <sub> This image was sourced from  [Britannica](https://www.britannica.com/plant/litchi-fruit). <sub>
 
 #### Favorite quote
@@ -16,7 +23,7 @@ You can read my thoughts on this quote [here](quote_thoughts.md).
 
 #### Favorite programming language
 
-For me, this would be Kotlin. Here's some example Kotlin code that computes the $n$th Fibonacci number for some natural $n \in \mathbb{N}$.
+For me, this would be [Kotlin](https://kotlinlang.org/). Here's some example Kotlin code that computes the \(n\)th Fibonacci number for some natural \(n \in \mathbb{N}\).
 
 ```kotlin
 fun fib(n: Int): Int {
@@ -25,3 +32,13 @@ fun fib(n: Int): Int {
 }
 ```
 
+## Recently played games
+- Slay the Spire 
+- osu!
+- Demon Bluff
+
+## Bucket list
+- [x] See the aurora borealis
+- [x] Go snorkeling in a coral reef
+- [ ] Road trip across the US   
+- [ ] Learn a new language
