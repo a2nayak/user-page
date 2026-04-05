@@ -12,7 +12,7 @@ The following page will help you get to know me a little bit better.
 #### Favorite fruit
 <ins>Lychees</ins> are my favorite fruit, as shown below: 
 
-![image of a lychee](image.png) \
+![image of lychees](lychees.png) \
 <sup> This image was sourced from  [Britannica](https://www.britannica.com/plant/litchi-fruit). <sup>
 #### Favorite quote
 
