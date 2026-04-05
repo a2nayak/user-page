@@ -4,9 +4,9 @@ The following page will help you get to know me a little bit better.
 
 ## Favorite things
 ##### Categories
-1.  [Favorite fruit](####Favorite-fruit)
-2. [Favorite quote](####Favorite-quote)
-3. [Favorite programming language](####Favorite-programming-language)
+1.  [Favorite fruit](#Favorite-fruit)
+2. [Favorite quote](#Favorite-quote)
+3. [Favorite programming language](#Favorite-programming-language)
 
 
 #### Favorite fruit
